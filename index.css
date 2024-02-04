@@ -1,0 +1,23 @@
+.list,.title{
+    font-weight: bold;
+    font-family: sans-serif, 'Times New Roman', Times, serif;
+}
+
+.title{
+    font-size: 36px;
+}
+
+.list{
+    font-size: 22px;
+    
+}
+
+#green-curry{
+    background-color: green;
+    color: white;
+}
+
+#pad{
+    background-color: orange;
+    color: white;
+}

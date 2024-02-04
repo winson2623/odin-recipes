@@ -1,0 +1,22 @@
+body{
+    font-family: sans-serif, 'Times New Roman', Times, serif;
+}
+
+.title{
+    font-size: 32px;
+    font-weight: bold;
+    color: orangered;
+}
+
+.list .unordered{
+    color: brown;
+}
+
+#important{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.list .ordered{
+    color: purple;
+}
